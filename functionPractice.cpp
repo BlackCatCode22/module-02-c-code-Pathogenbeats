@@ -8,6 +8,12 @@ using namespace std;
 // This is declaring a function.
 string oddOrEven(int);
 
+//create and use the following four functions.
+int sumTwoWholeNumbers(int,int);
+int squareANumber(int);
+string sayHelloToTheUSer(string);
+int largestOfThreeWholeNumbers(int,int, int);
+
 int main() {
     cout << "\nWelcome to my Function Program!" << endl;
 
